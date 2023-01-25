@@ -16,7 +16,9 @@ It is not a project repository. only for storing some Images.
 # Cinemas
 ![Screen_on_the_green](https://user-images.githubusercontent.com/67691782/205773235-454b231d-fdce-4dc5-a803-d0d9cc7bc9ff.jpg)
 ![Uci_kinowelt_logo](https://user-images.githubusercontent.com/67691782/205773240-5952fb6b-8cdf-4c64-8fee-0ea9e8884ec7.png)
-![Leicester_Square_Odeon](https://user-images.githubusercontent.com/67691782/205773242-ac864c22-3a3b-49b6-8335-84794e6c6490.jpg)
+![Leicester_Square_Odeon](https://user-images.githubusercontent.com/67691782/205773242-ac864c22-3a3b-49b![Everyman_Cinema_front,_Hampstead,_July_2021_(02)](https://user-images.githubusercontent.com/67691782/214716811-c0b9ec99-2437-4580-bb0c-3d9b99de301e.jpg)
+![Everyman_Cinema_front,_Hampstead,_July_2021_(02)](https://user-images.githubusercontent.com/67691782/214716811-c0b9ec99-2437-4580-bb0c-3d9b99de301e.jpg)
+6-8335-84794e6c6490.jpg)
 ![Prince_Charles_Cinema](https://user-images.githubusercontent.com/67691782/205773247-90685c86-030a-43f9-822d-d8db667a2776.jpg)
 ![RitzyCinemaBrixton](https://user-images.githubusercontent.com/67691782/205773249-9f9144a1-7bc4-4dde-8b3d-d0850e2674cd.jpg)
 
